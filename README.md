@@ -84,10 +84,13 @@
 <hr/>
 <br/>
 
-<p>
+<p align="center">
   <a href="https://github.com/Felipe-Navas">
     <img src="https://streak-stats.demolab.com?user=Felipe-Navas&theme=tokyonight&border=01313F&background=01313F" alt="Felipe Navas's GitHub Streak" width="490px" />
   </a>
+</p>
+
+<p align="center">
   <a href="https://github.com/Felipe-Navas">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Felipe-Navas&theme=tokyonight" alt="Felipe Navas's GitHub Contribution" />
   </a>
@@ -95,10 +98,10 @@
 
 <p>
   <a href="https://github.com/Felipe-Navas">
-    <img alt="Felipe Navas's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=Felipe-Navas&show_icons=true&count_private=true&theme=tokyonight&border_color=01313F&bg_color=01313F" height="192px" width="490px"/>
+    <img alt="Felipe Navas's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=Felipe-Navas&show_icons=true&count_private=true&theme=tokyonight&border_color=01313F&bg_color=01313F" height="192px" width="49.5%"/>
   </a>
   <a href="https://github.com/Felipe-Navas">
-    <img alt="Felipe Navas's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Felipe-Navas&langs_count=8&layout=compact&theme=tokyonight&border_color=01313F&bg_color=01313F" height="192px"/>
+    <img alt="Felipe Navas's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Felipe-Navas&langs_count=8&layout=compact&theme=tokyonight&border_color=01313F&bg_color=01313F" height="192px" width="49.5%"/>
   </a>
   <br/>
 </p>
