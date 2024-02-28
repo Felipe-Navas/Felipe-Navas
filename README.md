@@ -96,10 +96,10 @@
   </a>
 </p>
 
-<a>
+<p align="center">
   <a href="https://github.com/Felipe-Navas"><img alt="Felipe Navas's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=Felipe-Navas&show_icons=true&count_private=true&theme=tokyonight&border_color=01313F&bg_color=01313F" height="192px" width="49.5%"/></a>
   <a href="https://github.com/Felipe-Navas"><img alt="Felipe Navas's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Felipe-Navas&langs_count=8&layout=compact&theme=tokyonight&border_color=01313F&bg_color=01313F" height="192px" width="49.5%"/></a>
-</a>
-<br/>
+  <br/>
+</p>
 
 ![Felipe Navas's Graph](https://github-readme-activity-graph.vercel.app/graph?username=Felipe-Navas&custom_title=Felipe%20Navas's%20GitHub%20Activity%20Graph&bg_color=01313f&color=bf91f3&line=38bdae&point=6092df&area_color=38bdae&title_color=6092df&area=true)
