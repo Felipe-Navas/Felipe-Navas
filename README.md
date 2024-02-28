@@ -96,7 +96,7 @@
   </a>
 </p>
 
-<p>
+<p align="center">
   <a href="https://github.com/Felipe-Navas">
     <img alt="Felipe Navas's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=Felipe-Navas&show_icons=true&count_private=true&theme=tokyonight&border_color=01313F&bg_color=01313F" height="192px" width="49.5%"/>
   </a>
