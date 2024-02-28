@@ -24,12 +24,11 @@
 
 <p>
   <img align="right" width="350" src="giphy_coding.gif" alt="Coding Work From Home GIF by Domme Space" />
-  🔍 &emsp; 10+ years deep in software development, always adapting and improving <br/><br/>
-  🛠️ &emsp; Expert in React.js, Node.js, and TypeScript—my main tools for creating digital solutions <br/><br/>
-  🔄 &emsp; I handle projects from start to finish, making sure everything runs smoothly <br/><br/>
-  📚 &emsp; I'm all about best practices, making sure our code is efficient and reliable <br/><br/>
-  🎓 &emsp; I'm a lifelong learner, keeping up with the latest tech trends to stay ahead of the game <br/><br/>
-  💬 &emsp; Ask me about anything [here](https://github.com/Felipe-Navas/Felipe-Navas/issues) <br/><br/>
+  🔍 10+ years deep in software development, always adapting and improving <br/><br/>
+  🛠️ Expert in React.js, Node.js, and TypeScript—my main tools for creating digital solutions <br/><br/>
+  🔄 I handle projects from start to finish, making sure everything runs smoothly <br/><br/>
+  📚 I'm all about best practices, making sure our code is efficient and reliable <br/><br/>
+  🎓 I'm a lifelong learner, keeping up with the latest tech trends to stay ahead of the game <br/><br/>
 </p>
 
 
