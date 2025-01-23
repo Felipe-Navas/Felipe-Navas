@@ -85,7 +85,7 @@
 
 <p align="center">
   <a href="https://github.com/Felipe-Navas">
-    <img src="https://streak-stats.demolab.com?user=Felipe-Navas&theme=tokyonight&border=01313F&background=01313F" alt="Felipe Navas's GitHub Streak" width="490px" />
+    <img src="https://streak-stats.demolab.com?user=Felipe-Navas&theme=tokyonight" alt="Felipe Navas's GitHub Streak" width="490px" />
   </a>
 </p>
 
